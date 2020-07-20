@@ -21,6 +21,5 @@ I'm a web front end full stack developer, I'd like to make some contributions fo
 - 📫 How to reach me: ...
 - <https://github.com/yiliqsmy>
 - <iria.yan@outlook.com>
-- <yanyili55@163.com>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![yiliqsmy's github stats](https://github-readme-stats.vercel.app/api?username=yiliqsmy)](https://github.com/anuraghazra/github-readme-stats)
