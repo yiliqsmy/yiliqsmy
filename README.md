@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a .NET full stack developer, I'd like to make some contributions for .net open source and share some thoughts on my blog and github.
+I'm a web front end full stack developer, I'd like to make some contributions for vue open source and share some thoughts on my blog and github.
 
 ### Contact me
 - 📫 How to reach me: ...
