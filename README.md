@@ -22,4 +22,4 @@ I'm a web front end full stack developer, I'd like to make some contributions fo
 - <https://github.com/yiliqsmy>
 - <iria.yan@outlook.com>
 
-![yiliqsmy's github stats](https://github-readme-stats.vercel.app/api?username=yiliqsmy&hide=["contribs","issues"])
+![yiliqsmy's github stats](https://github-readme-stats.vercel.app/api?username=yiliqsmy&hide=["contribs","issues"]&theme=radical)
